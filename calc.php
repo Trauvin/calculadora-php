@@ -30,7 +30,7 @@ switch ($_POST) {
 	<title>Us the bind</title>
 </head>
 <body>	
-	<form action="soma.php" method="post"> 
+	<form action="calc.php" method="post"> 
 		<input name="xvalue" placeholder="first number">
 		<input name="yvalue" placeholder="second number">
 		
